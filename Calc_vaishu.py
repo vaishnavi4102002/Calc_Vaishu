@@ -1,9 +1,12 @@
+num1 = 10
+num2 = 7
+number = num1 + num2
+print(number)
+
+num3 = 10
+num4 = 7
+number = num3 - num4
+print(number)
 
 
-num1 = 1.5
-num2 = 6.3
 
-sum = num1 + num2
-
-
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
